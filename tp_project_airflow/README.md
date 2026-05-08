@@ -6,7 +6,8 @@
 - сохраняет результат в S3-совместимое хранилище;
 - запускается как DAG в Apache Airflow через `docker-compose`.
 
-![Структура проекта: какие технологии были использованы ?]https://github.com/igor-ml-2007/airflow-weather-s3-pipeline/blob/main/tp_project_airflow/images/project_structure.jpg
+# Структура проекта: какие технологии были использованы.
+![Структура проекта: какие технологии были использованы ?](https://github.com/igor-ml-2007/airflow-weather-s3-pipeline/blob/main/tp_project_airflow/images/project_structure.jpg)
 
 
 
