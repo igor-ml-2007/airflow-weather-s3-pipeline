@@ -86,4 +86,6 @@ docker compose exec airflow-scheduler airflow tasks states-for-dag-run weather_r
 
 Список городов для расчёта можно изменить в `src/weather_pipeline/pipeline.py` в кортеже `RUSSIAN_CITIES`.
 
+```
 Выполнил учащийся группы Б05-511 Син Игорь Романович
+```
