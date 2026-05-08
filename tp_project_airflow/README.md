@@ -1,6 +1,6 @@
 # Airflow Weather to S3
 
-Решение для 3 варианта контрольной на Python:
+Задачи проекта:
 - забирает текущую температуру по набору городов России из Open-Meteo;
 - считает среднюю температуру в Python-коде;
 - сохраняет результат в S3-совместимое хранилище;
@@ -86,3 +86,4 @@ docker compose exec airflow-scheduler airflow tasks states-for-dag-run weather_r
 
 Список городов для расчёта можно изменить в `src/weather_pipeline/pipeline.py` в кортеже `RUSSIAN_CITIES`.
 
+Выполнил учащийся группы Б05-511 Син Игорь Романович
